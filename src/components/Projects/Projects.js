@@ -74,7 +74,7 @@ function Projects() {
             <ProjectCard
               imgPath={image5}
               isBlog={false}
-              title="OyakuFeed"
+              title="OtakuFeed"
               description="Connect with fellow anime enthusiasts on our social media site. Share favorite shows, fan art, and discussions. Embrace the anime community, discover new series, and celebrate the love for Japanese animation. Tech Stack: React JS, Javascripts, HTML, CSS, Express Js, Node JS, MongoDB"
               ghLink="https://github.com/prateeksha17/OtakuFeed.github.io"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
