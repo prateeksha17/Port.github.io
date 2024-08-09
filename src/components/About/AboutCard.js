@@ -16,19 +16,9 @@ function AboutCard() {
             
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            I hail from Lucknow, Uttar Pradesh.
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Embriodry
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Content
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-          </ul>
+          
 
           {/* <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}

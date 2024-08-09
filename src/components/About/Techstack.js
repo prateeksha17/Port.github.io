@@ -16,7 +16,11 @@ import {
 
   SiFirebase,
   SiExpress,
-  SiBootstrap,
+  SiTailwindcss,
+  SiPython,
+  SiJupyter,
+  SiNumpy,
+  SiPandas,
 } from "react-icons/si";
 
 
@@ -52,6 +56,21 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNumpy />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPandas />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJupyter />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTailwindcss />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiExpress />

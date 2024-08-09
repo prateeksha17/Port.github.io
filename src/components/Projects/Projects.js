@@ -47,17 +47,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={image3}
-              isBlog={false}
-              title="Money Tracker"
-              description="Take control of your finances with our money tracking site. Effortlessly manage expenses, set budgets, and gain financial insight. Empower yourself to achieve financial goals and peace of mind.
-              Tech Stack: React JS, Javascripts, HTML, CSS, Firebase"
-              ghLink="https://github.com/prateeksha17/portfolio.github.io"
-              //demoLink="https://editor.soumya-jit.tech/"              
-            />
-          </Col>
+          
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -76,33 +66,15 @@ function Projects() {
               isBlog={false}
               title="OtakuFeed"
               description="Connect with fellow anime enthusiasts on our social media site. Share favorite shows, fan art, and discussions. Embrace the anime community, discover new series, and celebrate the love for Japanese animation. Tech Stack: React JS, Javascripts, HTML, CSS, Express Js, Node JS, MongoDB"
-              ghLink="https://github.com/prateeksha17/OtakuFeed.github.io"
+              ghLink="https://github.com/prateeksha17/OtakuFeed"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
 
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={image6}
-              isBlog={false}
-              title="portfolio"
-              description="Showcase your talent with our portfolio site. Display your work elegantly, attractively, and professionally. Impress clients and employers with a stunning visual representation of your skills and achievements. Tech Stack: React JS, Javascripts, HTML, CSS, Node Js"
-              
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
-            />
-          </Col>
+         
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={image7}
-              isBlog={false}
-              title="Blogify"
-              description="Elevate your voice with our blog creation site. Effortlessly craft, customize, and publish content. Engage your audience, build a community, and amplify your impact with a platform designed for success. Tech Stack: Editor.js, Javascripts, HTML, CSS, Firebase"
-              ghLink="https://github.com/prateeksha17/blogify.github.io"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
-            />
-          </Col>
+         
 
           <Col md={4} className="project-card">
             <ProjectCard
